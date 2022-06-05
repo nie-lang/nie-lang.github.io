@@ -1,2 +1,1 @@
-# nie-lang.github.io
-Lang's personal website.
+# Lang's personal website.
